@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nathaniel Jung.
 - 🌊 I'm currently a Hydraulic Engineer.
-- 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning full stack development through Free Code Camp in my off hours.
+- 🌱 I’m currently coding for fun and hobby projects.
 - 📫 You can reach me by email at nathanieljung@protonmail.com
 
 <!---
